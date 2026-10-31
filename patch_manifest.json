@@ -14,15 +14,21 @@
                   },
                   {
                       "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
-                      "size_bytes":  1174188,
+                      "size_bytes":  60276341,
                       "relative_path":  "DustLauncher.exe",
-                      "sha256":  "8b780e135eeae42ed847136d10e0248ce8de4763a3173a4e0c3b13d1ce77398b"
+                      "sha256":  "aad378cd96bdbdf29ffe248273aa9761768a5ee4c1a2bc337468a234c7b6c0f4"
                   },
                   {
                       "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/UnityPlayer.dll",
                       "size_bytes":  35794864,
                       "relative_path":  "UnityPlayer.dll",
                       "sha256":  "b9f19aef68d27042174d130d05681b92a87f4842e206cb6693805b45c092872e"
+                  },
+                  {
+                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Assembly-CSharp.dll",
+                      "size_bytes":  941056,
+                      "relative_path":  "Dust_Data/Managed/Assembly-CSharp.dll",
+                      "sha256":  "3092baa981aafee40df54d51a168779fdb671187a7e708bc3234fa303e0fe277"
                   },
                   {
                       "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Dust_Data.zip",
