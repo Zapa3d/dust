@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "✦ MULTICLIENTE, ALVO [TAB] E CORREÇÃO DE POSICIONAMENTO",
+    "data": "01/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Alvo com [Tab]: Alternância rápida entre inimigos, NPCs e jogadores próximos.\n• Multi-instâncias: O jogo continua renderizando ativamente ao trocar de janela (Alt+Tab).\n• Jogadores Remotos: Alinhamento preciso ao solo e moldura de vida sobre a cabeça.",
+    "imagem": ""
+  },
+  {
     "titulo": "✦ REDESIGN DO LAYOUT, HUD E SISTEMA DE GRUPO",
     "data": "01/11/2026",
     "categoria": "ATUALIZAÇÃO",

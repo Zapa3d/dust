@@ -1,41 +1,41 @@
 {
-    "launcher_download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
-    "version":  "1.0.1",
-    "server_port":  7777,
-    "changelog":  "Versao 1.0.1 - Sincronizacao oficial de clientes.",
-    "server_host":  "163.176.2.232",
-    "server_status":  "online",
-    "files":  [
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Dust.exe",
-                      "size_bytes":  667648,
-                      "relative_path":  "Dust.exe",
-                      "sha256":  "3d2b0639ccc2e3bf326257f74afcf6832808836a9bdb66b01473fe4d4d093889"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
-                      "size_bytes":  60230267,
-                      "relative_path":  "DustLauncher.exe",
-                      "sha256":  "75c5f37bf86dbc7083f10ff52d731cb910acdb3ad0ecc8fd8d7cfd93848c67d2"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/UnityPlayer.dll",
-                      "size_bytes":  35794864,
-                      "relative_path":  "UnityPlayer.dll",
-                      "sha256":  "b9f19aef68d27042174d130d05681b92a87f4842e206cb6693805b45c092872e"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Assembly-CSharp.dll",
-                      "size_bytes":  1173504,
-                      "relative_path":  "Dust_Data/Managed/Assembly-CSharp.dll",
-                      "sha256":  "a3e69fc30e78a587d2b9aefea5f91ff2c41d34962a150e61644763221d249381"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Dust_Data.zip",
-                      "size_bytes":  79578955,
-                      "relative_path":  "Dust_Data.zip",
-                      "sha256":  "fadec06eaf9a98f6e8066d1294dfb39bc54c3e461f7db85c7ce0592ebe11ec59"
-                  }
-              ],
-    "launcher_version":  "1.0.1"
+  "launcher_download_url": "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
+  "version": "1.0.2",
+  "server_port": 7777,
+  "changelog": "Versao 1.0.1 - Sincronizacao oficial de clientes.",
+  "server_host": "187.41.109.253",
+  "server_status": "online",
+  "files": [
+    {
+      "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Dust.exe",
+      "size_bytes": 667648,
+      "relative_path": "Dust.exe",
+      "sha256": "3d2b0639ccc2e3bf326257f74afcf6832808836a9bdb66b01473fe4d4d093889"
+    },
+    {
+      "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
+      "size_bytes": 60230779,
+      "relative_path": "DustLauncher.exe",
+      "sha256": "5e446fcf46344535f6df81c5a91ad56e0cebe2f9e875224382e8f68aaaf35a5a"
+    },
+    {
+      "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/UnityPlayer.dll",
+      "size_bytes": 35794864,
+      "relative_path": "UnityPlayer.dll",
+      "sha256": "b9f19aef68d27042174d130d05681b92a87f4842e206cb6693805b45c092872e"
+    },
+    {
+      "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Assembly-CSharp.dll",
+      "size_bytes": 1252864,
+      "relative_path": "Dust_Data/Managed/Assembly-CSharp.dll",
+      "sha256": "380fef5ad2807bbc413ec0fecf7b457a86ab94ebdcf208f22cf862fa240a0359"
+    },
+    {
+      "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Dust_Data.zip",
+      "size_bytes": 79578955,
+      "relative_path": "Dust_Data.zip",
+      "sha256": "fadec06eaf9a98f6e8066d1294dfb39bc54c3e461f7db85c7ce0592ebe11ec59"
+    }
+  ],
+  "launcher_version": "1.0.1"
 }
