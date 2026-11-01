@@ -1,41 +1,41 @@
 {
-    "launcher_download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
-    "version":  "1.0.1",
-    "server_port":  7777,
-    "changelog":  "Versao 1.0.1 - Sincronizacao oficial de clientes.",
-    "server_host":  "163.176.2.232",
-    "server_status":  "online",
-    "files":  [
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Dust.exe",
-                      "size_bytes":  667648,
-                      "relative_path":  "Dust.exe",
-                      "sha256":  "3d2b0639ccc2e3bf326257f74afcf6832808836a9bdb66b01473fe4d4d093889"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
-                      "size_bytes":  60230267,
-                      "relative_path":  "DustLauncher.exe",
-                      "sha256":  "47697b22a4fe16bd4ceda0aa52fca605fed884692fc6ab2d0bed2e0fe244506a"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/UnityPlayer.dll",
-                      "size_bytes":  35794864,
-                      "relative_path":  "UnityPlayer.dll",
-                      "sha256":  "b9f19aef68d27042174d130d05681b92a87f4842e206cb6693805b45c092872e"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Assembly-CSharp.dll",
-                      "size_bytes":  1064448,
-                      "relative_path":  "Dust_Data/Managed/Assembly-CSharp.dll",
-                      "sha256":  "7d17e80a5314c765f776540e8030eafb19430074989a165a1e53a992f7d9dffc"
-                  },
-                  {
-                      "download_url":  "https://github.com/Zapa3d/dust/releases/latest/download/Dust_Data.zip",
-                      "size_bytes":  79539685,
-                      "relative_path":  "Dust_Data.zip",
-                      "sha256":  "4de4b63b0337600e3d1180d117dcf40fb5446cf35d673585dfd8632785ced811"
-                  }
-              ],
-    "launcher_version":  "1.0.1"
+    "launcher_download_url": "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
+    "version": "1.0.1",
+    "server_port": 7777,
+    "changelog": "Versao 1.0.1 - Sincronizacao oficial de clientes.",
+    "server_host": "187.41.109.253",
+    "server_status": "online",
+    "files": [
+        {
+            "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Dust.exe",
+            "size_bytes": 667648,
+            "relative_path": "Dust.exe",
+            "sha256": "3d2b0639ccc2e3bf326257f74afcf6832808836a9bdb66b01473fe4d4d093889"
+        },
+        {
+            "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
+            "size_bytes": 1375916,
+            "relative_path": "DustLauncher.exe",
+            "sha256": "2859b1277a30061f1db115c407d92d8f933d6b36bfe602d828360090c7d22d45"
+        },
+        {
+            "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/UnityPlayer.dll",
+            "size_bytes": 35794864,
+            "relative_path": "UnityPlayer.dll",
+            "sha256": "b9f19aef68d27042174d130d05681b92a87f4842e206cb6693805b45c092872e"
+        },
+        {
+            "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Assembly-CSharp.dll",
+            "size_bytes": 1128448,
+            "relative_path": "Dust_Data/Managed/Assembly-CSharp.dll",
+            "sha256": "c8365c9e47fc159fb4056088c5afbbae3fe581d78ec34965fdd392e5aa553077"
+        },
+        {
+            "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Dust_Data.zip",
+            "size_bytes": 79562480,
+            "relative_path": "Dust_Data.zip",
+            "sha256": "3da643b845fb3ff21f64778381921d6604b1c64384a5de3b41642c73559b9fcf"
+        }
+    ],
+    "launcher_version": "1.0.1"
 }
