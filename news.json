@@ -1,10 +1,37 @@
 [
   {
-    "titulo": "✦ DUST MMORPG - SERVIDOR ONLINE ",
-    "data": "30/10/2026",
-    "categoria": "PATCH NOTE",
-    "descricao": "• Servidor Dedicado 24/7 ativo em São Paulo.\n• Sistema de Nações (Ignis, Kael, Vesper) com dimensões separadas.\n• Auto-Updater e Verificação de Integridade oficiais.",
+    "titulo": "✦ REDESIGN DO LAYOUT, HUD E SISTEMA DE GRUPO",
+    "data": "01/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Novo visual 'Vidro de Obsidiana & Ouro': Alto contraste e molduras refinadas em todas as janelas.\n• Painel de Grupo Retrátil: Adicionado botão [◀] para recolher o grupo em aba lateral e [▶] para expandir.\n• Organização Espacial Limpa: Atributos [C] à esquerda e Mochila [V] à direita, sem sobreposições.",
     "imagem": ""
   },
-  
+  {
+    "titulo": "✦ SISTEMA DE MAPA REGIONAL [N] E MAPA-MÚNDI [M]",
+    "data": "31/10/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Tecla [M]: Abre o Mapa-Múndi Global com memória de posição e entrada de masmorras.\n• Tecla [N]: Abre o Mapa Local com flecha de orientação e missões em tempo real.\n• Minimapa Interativo: Clique no radar para abrir o mapa local e atalhos rápidos [N] e [M].",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ SISTEMA DE NEGOCIAÇÃO E TROCA DIRETA (TRADE)",
+    "data": "31/10/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Troca Segura: Grade de até 8 itens e até 1kkk (1 bilhão) de Ouro entre jogadores.\n• Trava Anti-Scam: Confirmação em 2 etapas; alterações na oferta cancelam as confirmações.\n• Inicie pelo quadro de alvo de outro jogador ou pelos comandos /trade e /troca no chat.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ DUST MMORPG - SERVIDOR DEDICADO ONLINE",
+    "data": "30/10/2026",
+    "categoria": "PATCH NOTE",
+    "descricao": "• Servidor Dedicado 24/7 ativo em São Paulo na Oracle Cloud (163.176.2.232).\n• Sistema de Nações (Ignis, Kael, Vesper) com dimensões separadas.\n• Auto-Updater e Verificação de Integridade oficiais via GitHub.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ EVENTO: A ENCRUZILHADA (PVP TRI-FACÇÃO)",
+    "data": "29/10/2026",
+    "categoria": "EVENTO",
+    "descricao": "• As 3 Nações colidem no grande deserto central da Encruzilhada.\n• Recursos raros de forja e chefes de mundo disponíveis para saque full loot.",
+    "imagem": ""
+  }
 ]
