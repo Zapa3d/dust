@@ -1,8 +1,8 @@
 {
   "launcher_download_url": "https://github.com/Zapa3d/dust/releases/latest/download/DustLauncher.exe",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "server_port": 7777,
-  "changelog": "Versao 1.0.1 - Sincronizacao oficial de clientes.",
+  "changelog": "Versao 1.0.2 - Sincronizacao oficial de clientes.",
   "server_host": "187.41.109.253",
   "server_status": "online",
   "files": [
@@ -26,16 +26,16 @@
     },
     {
       "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Assembly-CSharp.dll",
-      "size_bytes": 1252864,
+      "size_bytes": 1305088,
       "relative_path": "Dust_Data/Managed/Assembly-CSharp.dll",
-      "sha256": "380fef5ad2807bbc413ec0fecf7b457a86ab94ebdcf208f22cf862fa240a0359"
+      "sha256": "6d80e366085170c683efe056ea31fac0a183365d190c7a6beccd5f7de635a6aa"
     },
     {
       "download_url": "https://github.com/Zapa3d/dust/releases/latest/download/Dust_Data.zip",
-      "size_bytes": 79578955,
+      "size_bytes": 74351687,
       "relative_path": "Dust_Data.zip",
-      "sha256": "fadec06eaf9a98f6e8066d1294dfb39bc54c3e461f7db85c7ce0592ebe11ec59"
+      "sha256": "69a1aee88f91f959d2eebc2ed557125b9e0cba0d179c94af1c1467b1c5123eed"
     }
   ],
-  "launcher_version": "1.0.1"
+  "launcher_version": "1.0.2"
 }

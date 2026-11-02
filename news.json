@@ -1,5 +1,19 @@
 [
   {
+    "titulo": "✦ DUST MMORPG - ATUALIZAÇÃO v1.0.3",
+    "data": "01/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Versão v1.0.3 sincronizada com sucesso.\n• Melhorias contínuas de estabilidade e novas mecânicas aplicadas.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ VERIFICAÇÃO DE E-MAIL E RECUPERAÇÃO DE SENHA",
+    "data": "01/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Cadastro com E-mail: Nova tela de registro com validação segura por código de 6 dígitos.\n• Recuperação de Senha: Opção 'Esqueci minha senha' com redefinição direta na tela de acesso.\n• Segurança Aprimorada: Maior proteção e integridade para as contas do jogo.",
+    "imagem": ""
+  },
+  {
     "titulo": "✦ MULTICLIENTE, ALVO [TAB] E CORREÇÃO DE POSICIONAMENTO",
     "data": "01/11/2026",
     "categoria": "ATUALIZAÇÃO",
