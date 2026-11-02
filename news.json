@@ -1,9 +1,23 @@
 [
   {
-    "titulo": "✦ DUST MMORPG - ATUALIZAÇÃO v1.0.4",
-    "data": "01/11/2026",
+    "titulo": "✦ DUST MMORPG - ATUALIZAÇÃO v1.0.5",
+    "data": "02/11/2026",
     "categoria": "ATUALIZAÇÃO",
-    "descricao": "• Versão v1.0.4 sincronizada com sucesso.\n• Melhorias contínuas de estabilidade e novas mecânicas aplicadas.",
+    "descricao": "• Versão v1.0.5 sincronizada com sucesso.\n• Melhorias contínuas de estabilidade e novas mecânicas aplicadas.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ SISTEMA DE SEGURANÇA E GESTÃO DO MUNDO",
+    "data": "02/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Proteção e confirmação em duas etapas para ações irreversíveis do mundo.\n• Estabilidade aprimorada e prevenção contra exclusões acidentais.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ DUST MMORPG - ATUALIZAÇÃO v1.0.4",
+    "data": "02/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Acesso direto e seguro à tela oficial de login e seleção de personagens.\n• Estabilidade e integridade dos arquivos do cliente aprimoradas.",
     "imagem": ""
   },
   {
