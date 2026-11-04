@@ -1,5 +1,82 @@
 [
   {
+    "titulo": "✦ DUST MMORPG - ATUALIZAÇÃO v1.0.6",
+    "data": "04/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Versão v1.0.6 sincronizada com sucesso.\n• Melhorias contínuas de estabilidade e novas mecânicas aplicadas.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ SALA DE PERSONAGENS, CIDADANIA E TRANSIÇÃO VISUAL",
+    "data": "04/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Sala de Personagens com câmera frontal, zoom no scroll e suporte ao novo modelo base.\n• Confirmação ao desconectar, exibição correta de Nações e desativação de modelos legados.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ SISTEMA DE CIDADANIA E MUDANÇA DE NAÇÃO",
+    "data": "04/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Mudança de Nação na sala de personagens com spawn automático e bloqueio por juramento.\n• Quest de Cidadania no Cônsul com VIP 1, janelas arrastáveis e zoom no scroll.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ CORREIO PESSOAL, HISTÓRICO DE OURO & GESTÃO DE GUILDA",
+    "data": "04/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Correio Pessoal com botão fixo no minimapa, taxa de postagem e confirmação de envio.\n• Recrutamento de guilda enviado diretamente ao correio com validade de 24 horas.\n• Cofre com Histórico de Ouro permanente e evolução de guilda controlada pelo Líder.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ SINCRONIZAÇÃO OFICIAL E INTEGRIDADE DO JOGO",
+    "data": "03/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Inicialização Oficial: Acesso direto e seguro integrado através do DustLauncher.\n• Validação de Versão: Sincronização automática para garantir que todos joguem na mesma versão oficial.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ NOVO CRIADOR DE PERSONAGEM & EQUIPAMENTOS 3D",
+    "data": "03/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Criação de personagens com opções de rosto, porte físico, orelhas e tons de pele em prévia 3D.\n• Equipamentos visuais modulares sincronizados em tempo real no personagem.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ SISTEMA DE GUILDAS (NV. 1 AO 10), ALIANÇA E HABILIDADES",
+    "data": "03/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Evolução da Guilda do Nível 1 ao 10 com Ouro, expandindo o limite de membros e o mural oficial.\n• Habilidades de Guilda liberadas nos Níveis 1, 5 e 10 integradas ao catálogo de skills.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ PAINEL DE CRIAÇÃO, CATÁLOGO VISUAL & HABILIDADES",
+    "data": "03/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Seletores em lista visual com miniatura ao lado para ícones, molduras, efeitos visuais e sonoros.\n• Vínculo direto de habilidades por lista nas armas, armaduras e consumíveis com prévia ao vivo.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ MOCHILA INTERATIVA, POÇÕES E INTERFACE REFINADA",
+    "data": "03/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Sistema visual de equipamentos 3D sincronizado para armas, escudos e armaduras no personagem.\n• Padronização visual dos modelos Masculino e Feminino na criação de personagem.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ REFINAMENTO: CRIAÇÃO & COMBATE",
+    "data": "02/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Padronização visual simétrica das abas de Habilidades, Itens e Montarias com descrição no topo.\n• Restauração completa da lista de montarias e correção definitiva de sobreposição e tipografia no painel.",
+    "imagem": ""
+  },
+  {
+    "titulo": "✦ GESTÃO MASTER & SISTEMA DE HABILIDADES",
+    "data": "02/11/2026",
+    "categoria": "ATUALIZAÇÃO",
+    "descricao": "• Novo painel administrativo modular com navegação por tópicos e modo compacto dock.\n• Catálogo e criação de habilidades com seletor interativo de animações e pré-visualização ao vivo.",
+    "imagem": ""
+  },
+  {
     "titulo": "✦ DUST MMORPG - ATUALIZAÇÃO v1.0.5",
     "data": "02/11/2026",
     "categoria": "ATUALIZAÇÃO",
